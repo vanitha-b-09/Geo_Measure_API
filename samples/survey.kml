@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+  <Placemark><name>Plot A</name>
+    <ExtendedData><Data name="owner"><value>Ravi</value></Data></ExtendedData>
+    <Polygon><outerBoundaryIs><LinearRing><coordinates>
+      74.50,15.85,0 74.51,15.85,0 74.51,15.86,0 74.50,15.86,0 74.50,15.85,0
+    </coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+  <Placemark><name>Access road</name>
+    <LineString><coordinates>74.50,15.85 74.52,15.87 74.55,15.87</coordinates></LineString></Placemark>
+  <Placemark><name>Borewell</name><Point><coordinates>74.505,15.855</coordinates></Point></Placemark>
+  <Placemark><name>3D model</name><Model/></Placemark>
+</Document></kml>
